@@ -1,0 +1,13 @@
+name: AtlantaPoliceCrimeTrends
+title: AtlantaPoliceCrimeTrends
+username:
+account: zekephoenix
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1959581
+bundleId: 2891510
+url: https://zekephoenix.shinyapps.io/AtlantaPoliceCrimeTrends/
+when: 1584478461.43219
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|app_ggplot.R|app_itWorks.R|COBRA-2009-2019.csv|COBRA-2020-CSV.csv|COBRA-2020.csv|COBRA_historical.zip|COBRA_new.zip|codes-UCR.xlsx|READ ME.txt
